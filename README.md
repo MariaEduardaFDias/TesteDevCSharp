@@ -19,6 +19,7 @@ Projeto desenvolvido em **ASP.NET Core MVC** como parte de um processo seletivo.
 - CSS3
 - JavaScript
 - Bootstrap
+- SQL Server 
 
 ## Como executar
 
