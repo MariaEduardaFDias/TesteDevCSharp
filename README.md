@@ -1,44 +1,63 @@
-Projeto desenvolvido em ASP.NET Core MVC como parte de um processo seletivo.
+# Teste Dev CSharp
 
-Funcionalidades:
+Projeto desenvolvido em **ASP.NET Core MVC** como parte de um processo seletivo.
 
-Cadastro de usuários
-Cadastro de endereços
-Busca automática de CEP utilizando a API ViaCEP
-Interface responsiva
-Persistência de dados em SQL Server
-Testes unitários com xUnit
+---
 
-Tecnologias Utilizadas:
+## 📋 Funcionalidades
 
-ASP.NET Core MVC
-C#
-SQL Server
-HTML5
-CSS3
-JavaScript
-Bootstrap
-xUnit
-Banco de Dados
+- Cadastro de usuários
+- Cadastro de endereços
+- Busca automática de CEP utilizando a API ViaCEP
+- Interface responsiva
+- Persistência de dados em SQL Server
+- Testes unitários com xUnit
 
-O projeto utiliza SQL Server para persistência dos dados.
+---
 
-Tabelas principais:
+## 🛠️ Tecnologias Utilizadas
 
-Usuarios
-Enderecos
-Como executar
-Clone o repositório
-Configure a string de conexão no arquivo appsettings.json
-Execute o script de criação do banco de dados 
-Execute o projeto pelo Visual Studio.
+- ASP.NET Core MVC
+- C#
+- SQL Server
+- ADO.NET
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- xUnit
 
-Funcionalidades Extras:
+---
 
-✅ Integração com ViaCEP
-✅ Preenchimento automático do endereço
-✅ Testes unitários
-✅ Interface organizada em ASP.NET MVC
+## 🗄️ Banco de Dados
 
-Autor:
-Maria Eduarda Dias
+O projeto utiliza **SQL Server** para persistência dos dados.
+
+### Tabelas principais
+
+- Usuários
+- Endereços
+
+---
+
+## ▶️ Como executar
+
+1. Clone o repositório.
+2. Configure a string de conexão no arquivo `appsettings.json`.
+3. Execute o script de criação do banco de dados 
+4. Execute o projeto pelo Visual Studio.
+
+---
+
+## ✨ Funcionalidades Extras
+
+- ✅ Integração com ViaCEP
+- ✅ Preenchimento automático do endereço
+- ✅ Testes unitários com xUnit
+- ✅ Interface organizada em ASP.NET Core MVC
+
+---
+
+## 👩‍💻 Autor
+
+**Maria Eduarda Dias**
